@@ -1,0 +1,25 @@
+{
+	"build_systems":
+	[
+		{
+			"name": "Run",
+			"linux": {
+				"shell_cmd": "make all",
+			},
+			"working_dir": "$project_path"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": ".",
+			"file_exclude_patterns":
+			[
+				"tags",
+				"*.zip",
+				"*.sublime-project"
+			],
+			"folder_exclude_patterns": ["dist"]
+		}
+	]
+}
