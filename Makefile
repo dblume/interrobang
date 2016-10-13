@@ -5,9 +5,6 @@ ZIPFILE=interrobang.zip
 IMG_NAMES=icon_16.png icon_48.png
 SOURCE_NAMES=inject.js manifest.json popup.html popup.js
 
-SOURCES=$(addprefix source/, $(SOURCE_NAMES))
-IMAGES=$(addprefix images/, $(IMG_NAMES))
-
 OBJECTS=$(addprefix $(DISTDIR)/, $(SOURCE_NAMES))
 OBJECTS+=$(addprefix $(DISTDIR)/, $(IMG_NAMES))
 
