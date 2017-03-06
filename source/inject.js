@@ -4,7 +4,7 @@
 window.addEventListener("keydown", function(event) {
   // Bind to both command (for Mac) and control (for Win/Linux)
   var modifier = event.ctrlKey || event.metaKey;
-  if (modifier && event.shiftKey && event.keyCode == 191) {
+  if (modifier && event.shiftKey && event.keyCode === 191) {
     document.execCommand('insertText', false, String.fromCharCode(8253));
   } 
 }, false);

@@ -1,3 +1,6 @@
+[![Code Climate](https://codeclimate.com/github/dblume/interrobang/badges/gpa.svg)](https://codeclimate.com/github/dblume/interrobang)
+[![Issue Count](https://codeclimate.com/github/dblume/interrobang/badges/issue_count.svg)](https://codeclimate.com/github/dblume/interrobang)
+[![License](https://img.shields.io/badge/license-MIT_license-blue.svg)](https://raw.githubusercontent.com/dblume/interrobang/master/LICENSE.txt)
 # Interrobang
 
 This is the source code for [the Google Chrome Interrobang AddOn](https://chrome.google.com/webstore/detail/interrobang/jlmlnjjmjkbeolfilplmajdjbmmopoll).
@@ -19,8 +22,7 @@ Finally, when you're ready to publish your own AddOn, [publish it at the Chrome 
 
 ## TODO
 
-1. Finish moving into GitHub. Create issues, etc.
-2. [Better promotional images](https://developer.chrome.com/webstore/images).
+1. [Better promotional images](https://developer.chrome.com/webstore/images).
 
 ## Is it any good?
 
