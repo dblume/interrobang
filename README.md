@@ -1,5 +1,5 @@
 [![Code Climate](https://codeclimate.com/github/dblume/interrobang/badges/gpa.svg)](https://codeclimate.com/github/dblume/interrobang)
-[![Issue Count](https://codeclimate.com/github/dblume/interrobang/badges/issue_count.svg)](https://codeclimate.com/github/dblume/interrobang)
+[![Issue Count](https://codeclimate.com/github/dblume/interrobang/badges/issue_count.svg)](https://codeclimate.com/github/dblume/interrobang/issues)
 [![License](https://img.shields.io/badge/license-MIT_license-blue.svg)](https://raw.githubusercontent.com/dblume/interrobang/master/LICENSE.txt)
 # Interrobang
 
