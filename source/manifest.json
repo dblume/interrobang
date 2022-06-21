@@ -1,18 +1,15 @@
 {
   "name": "Interrobang",
-  "version": "0.7",
-  "manifest_version": 2,
+  "version": "0.8",
+  "manifest_version": 3,
   "description": "Shortcut: Ctrl+Shift+/ writes an interrobang character. Toolbar button displays window of characters to choose.",
   "homepage_url": "http://interrobang.dlma.com",
   "icons": { "16": "icon_16.png",
              "48": "icon_48.png" },
-  "browser_action": {
+  "action": {
     "default_icon": "icon_16.png",
     "default_popup": "popup.html"
   },
-  "permissions": [
-    "tabs"
-  ],
   "content_scripts": [
     {
       "matches": ["<all_urls>"],

@@ -17,6 +17,7 @@ Visit [the Interrobang AddOn Website](http://interrobang.dlma.com/) for more det
 First, familiarize yourself with [Chrome AddOn development](https://developer.chrome.com/extensions/getstarted).
 
 Run `make` to put the distributable files into the dist folder and [zip the folder for you](https://developer.chrome.com/webstore/get_started_simple#step5).
+Test at `chrome://extensions` by clicking "Load unpacked" and selecting the dist folder. Use the zip file when publishing.
 
 Finally, when you're ready to publish your own AddOn, [publish it at the Chrome Store Dashboard](https://chrome.google.com/webstore/developer/dashboard).
 
